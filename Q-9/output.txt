@@ -1,0 +1,2 @@
+Sum of the array: 8
+Average of the array elements: 4

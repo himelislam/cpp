@@ -1,0 +1,4 @@
+Ascending Order:
+10 20 30 40 50 
+Descending Order:
+50 40 30 20 10 
